@@ -1,0 +1,43 @@
+ .text-center{
+    text-align: center;
+}
+.bg-red{
+   background: red; 
+}
+.mx-auto{
+   margin: auto; 
+} 
+.flex{
+    display:flex
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+  align-items: center;  
+}
+.cont {
+    font-size: 23px;
+    background-color: blanchedalmond;
+    border: 2px solid grey;
+    padding: 34px;
+    margin: 4px;
+    text-align: center;
+}
+
+#time {
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ 
